@@ -42,3 +42,6 @@ export default function Weather() {
     </form>
   );
 }
+  <footer>
+      coded by Laura Massam
+  </footer>
